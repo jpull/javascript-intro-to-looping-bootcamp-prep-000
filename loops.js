@@ -1,4 +1,4 @@
 function forLoop(array) {
-  array.push('I am ${i} strange loop$(i === 0 ? '' : 's').')
+  array.push('I am ${i} strange loop.')
   return array
 }
