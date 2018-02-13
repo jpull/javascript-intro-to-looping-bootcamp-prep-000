@@ -1,1 +1,3 @@
-function forLoop(array) {}
+function forLoop(array) {
+  array.push('hi')
+}
