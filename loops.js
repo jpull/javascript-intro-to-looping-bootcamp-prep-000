@@ -1,4 +1,4 @@
 function forLoop(array) {
-  array.push('hi')
+  array.push('I am ${i} strange loop.')
   return array
 }
